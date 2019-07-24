@@ -94,6 +94,21 @@ textarea {
   padding: 0.2em 0;
 }
 
+
+header{
+  background: #ccc
+
+}
+
+footer{
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  position: center;
+  margin-bottom: 2em;
+  background: violet
+}
+
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
